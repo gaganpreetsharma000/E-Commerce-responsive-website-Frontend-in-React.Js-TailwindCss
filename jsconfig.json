@@ -1,0 +1,5 @@
+{
+  "compilerOptions": {
+    "baseUrl": "." // This makes relative imports work properly
+  }
+}
